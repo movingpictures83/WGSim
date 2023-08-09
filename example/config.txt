@@ -1,0 +1,2 @@
+Prefix plugins/WGSim/example/
+Plugin WGSim inputfile parameters.txt outputfile output.fastq
